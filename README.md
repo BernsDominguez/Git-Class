@@ -11,6 +11,6 @@ git add <file>
 git commit -m"Message"
 git log
 git diff
-git checkout -b"Name"
 git branch
+git checkout -b"Name"
 ```
